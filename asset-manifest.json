@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.1b2a4730.css",
-    "main.js": "/static/js/main.8a8c5d90.js",
+    "main.js": "/static/js/main.3dad8aea.js",
     "static/css/987.4a28743b.chunk.css": "/static/css/987.4a28743b.chunk.css",
-    "static/js/987.daad906b.chunk.js": "/static/js/987.daad906b.chunk.js",
+    "static/js/987.1318535f.chunk.js": "/static/js/987.1318535f.chunk.js",
     "static/css/646.69024a7b.chunk.css": "/static/css/646.69024a7b.chunk.css",
-    "static/js/646.2f87e1d1.chunk.js": "/static/js/646.2f87e1d1.chunk.js",
+    "static/js/646.fe387371.chunk.js": "/static/js/646.fe387371.chunk.js",
     "static/css/120.da6f783a.chunk.css": "/static/css/120.da6f783a.chunk.css",
-    "static/js/120.206d1576.chunk.js": "/static/js/120.206d1576.chunk.js",
+    "static/js/120.d4ee285f.chunk.js": "/static/js/120.d4ee285f.chunk.js",
     "static/js/453.20359781.chunk.js": "/static/js/453.20359781.chunk.js",
     "index.html": "/index.html",
     "main.1b2a4730.css.map": "/static/css/main.1b2a4730.css.map",
-    "main.8a8c5d90.js.map": "/static/js/main.8a8c5d90.js.map",
+    "main.3dad8aea.js.map": "/static/js/main.3dad8aea.js.map",
     "987.4a28743b.chunk.css.map": "/static/css/987.4a28743b.chunk.css.map",
-    "987.daad906b.chunk.js.map": "/static/js/987.daad906b.chunk.js.map",
+    "987.1318535f.chunk.js.map": "/static/js/987.1318535f.chunk.js.map",
     "646.69024a7b.chunk.css.map": "/static/css/646.69024a7b.chunk.css.map",
-    "646.2f87e1d1.chunk.js.map": "/static/js/646.2f87e1d1.chunk.js.map",
+    "646.fe387371.chunk.js.map": "/static/js/646.fe387371.chunk.js.map",
     "120.da6f783a.chunk.css.map": "/static/css/120.da6f783a.chunk.css.map",
-    "120.206d1576.chunk.js.map": "/static/js/120.206d1576.chunk.js.map",
+    "120.d4ee285f.chunk.js.map": "/static/js/120.d4ee285f.chunk.js.map",
     "453.20359781.chunk.js.map": "/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2a4730.css",
-    "static/js/main.8a8c5d90.js"
+    "static/js/main.3dad8aea.js"
   ]
 }
